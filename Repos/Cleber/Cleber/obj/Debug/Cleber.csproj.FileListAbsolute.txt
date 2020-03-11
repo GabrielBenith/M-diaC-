@@ -1,0 +1,7 @@
+C:\Users\aluno1\Source\Repos\Cleber\Cleber\bin\Debug\Cleber.exe.config
+C:\Users\aluno1\Source\Repos\Cleber\Cleber\bin\Debug\Cleber.exe
+C:\Users\aluno1\Source\Repos\Cleber\Cleber\bin\Debug\Cleber.pdb
+C:\Users\aluno1\Source\Repos\Cleber\Cleber\obj\Debug\Cleber.csprojAssemblyReference.cache
+C:\Users\aluno1\Source\Repos\Cleber\Cleber\obj\Debug\Cleber.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Source\Repos\Cleber\Cleber\obj\Debug\Cleber.exe
+C:\Users\aluno1\Source\Repos\Cleber\Cleber\obj\Debug\Cleber.pdb
